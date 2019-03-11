@@ -1,4 +1,5 @@
 Building a Javascript Dev Environment
+same as Boilerplate, Starter kit, Seed, Starter Project
 Automated Checklist
 - Package Management 
 - Bundling
@@ -16,3 +17,37 @@ Automated Checklist
 - Automated build
 - Automated deployment
 - wokring example app
+
+Git
+git add .         - adding all changed files
+git commit -m "added new feature"
+git push
+
+Development Web Server
+node - http-server
+live-server
+budo
+webpack dev server
+browsersync - syncs all browsers at the same time
+express - also good for production
+
+Sharing Work in Progress (before cloud)
+localtunnel (lt --port 3000)
+ngrok
+surge
+now
+
+Task Automation
+Grunt
+Gulp
+npm Scripts
+
+npm scripts
+declared in package.json
+leverage os command line
+directly use npm packages
+call seperate node scripts
+convention based hooks
+
+Transpiling
+
